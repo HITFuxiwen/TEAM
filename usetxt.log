@@ -1,0 +1,6 @@
+model builder 
+选择vitdet 和 neck的种类 neck无融合，neck2有融合。
+sam
+可选multidecoder or not
+utils
+132行 选择learn rate
